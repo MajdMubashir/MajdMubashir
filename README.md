@@ -29,8 +29,9 @@ Here are a few projects that show my work in data analytics:
 ---
 
 ## 🎓 Education  
-
-- **Enrolled — Data Analytics Career Accelerator, London School of Economics and Political Science**  
+Enrolled in Data Analytics Career Accelerator - London School of Economics and Political Science (UK)
+M.Sc in Electrical Engineering - Blekinge Institute of Science and Technology (Sweden)
+B.Tech in Electronics and Communication Engineering - JNTUH (India)
 
 ---
 
