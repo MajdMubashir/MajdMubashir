@@ -1,6 +1,6 @@
 # Hi, I’m Majduddin.M 👋  
 
-I’m a Data Analyst with a background in digital marketing and web analytics. I spent nearly 3 years as a Digital Analyst and over 6 years working in analytics-driven digital roles. Alongside my professional work, I’ve completed certifications in SQL, Python, statistics and marketing analytics through DataCamp, and I’m currently enrolled in the LSE Data Analytics Career Accelerator.  
+I’m a Data Analyst with a background in digital marketing and web analytics. I spent nearly 3 years as a Digital Analyst and over 6 years working in analytics-driven digital roles. Alongside my professional work, I’ve completed certifications in SQL, Python, statistics and marketing analytics through DataCamp.  
 
 ---
 
@@ -28,10 +28,22 @@ Here are a few projects that show my work in data analytics:
 
 ---
 
-## 🎓 Certifications  
+## 🎓 Education  
 
-- DataCamp tracks: SQL for Data Analysis, Python for Data Analysis, Statistics & Hypothesis Testing, Marketing Analytics  
-- Enrolled in the **LSE Data Analytics Career Accelerator**  
+- **Enrolled — Data Analytics Career Accelerator, London School of Economics and Political Science**  
+
+---
+
+## 📜 Certifications  
+
+**Data Analytics & Data Science**  
+- DataCamp: SQL for Data Analysis, Python for Data Analysis, Statistics & Hypothesis Testing, Marketing Analytics, Customer Analytics, Exploratory Data Analysis, Data Visualisation  
+
+**Other Certifications (Marketing & Analytics)**  
+- SEO Manager & Technical SEO – Blue Array Academy, UK  
+- Advanced Digital Marketing (SEO, Social Media, Email) – HubSpot  
+- Google Ads (Search, Display, Video, Shopping, Analytics)  
+- Microsoft Ads  
 
 ---
 
